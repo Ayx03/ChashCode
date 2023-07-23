@@ -1,0 +1,36 @@
+Detailed information:
+App Name: ChashCode
+Package: com.wuxianlin.chashcode
+Version: 1.0 (1)
+Minimal Android: 4.4 (KitKat)
+Target Android: 8.1 (Oreo MR1)
+Maximal Android: 
+Support: Android
+OpenGL ES: 1.0
+Textures: 
+Screens: small,normal,large,xlarge
+Supported CPU: armeabi-v7a
+Supported DPI: 120,160,240,320,480,640,65534,any
+File Size: 888 KB
+MD5: 575213314159FB986312130C1DF8554B
+SHA-1: 4915B110E0E0DA0E93D824EB458AECDC702BD182
+Signature SHA-256: 0ea46109ea7df1257f04e600547290f52589c94f61ad51d890f48f11f5f571a0
+Signature SHA-1: f5bbd374fc0aa5347534c01f4a97b5f4a305aa16
+Signature MD5: 618cd11a8a77733dc6403d5c3762ac7a
+Signature DN: CN=Xianlin Wu, OU=wuxianlin, O=wuxianlin, L=Yangpu, ST=Shanghai, C=China
+Email: 
+Developer (CN): Xianlin Wu
+Organization (O): wuxianlin
+Organizational unit (OU): wuxianlin
+Locality (L): Yangpu
+Country (C): China
+State/city (ST): Shanghai
+App Permissions count: 0
+App Permissions:
+
+Features:
++ android.hardware.faketouch
+# android.hardware.faketouch (default feature for all apps)
+@ application: label='ChashCode' icon='res/mipmap-anydpi-v26/ic_launcher.xml'
+@ launchable-activity: name='com.wuxianlin.chashcode.MainActivity'  label='' icon=''
+@ main
